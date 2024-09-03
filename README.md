@@ -1,6 +1,6 @@
 ## Who am I ?
-I am a third-year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering. 
-I am an open-source Contributor and a web development addict.
+I completed my B.Sc in Computer Science and Engineering. 
+I am a Java and JavaScript developer.
 
 <!--
 **mahbub292/mahbub292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
