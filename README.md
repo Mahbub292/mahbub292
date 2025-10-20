@@ -1,6 +1,6 @@
-## Who am I ?
+## Who am I?
 I completed my B.Sc in Computer Science and Engineering. 
-I am a Java and JavaScript developer.
+I am a Java and Agentic AI developer.
 
 <!--
 **mahbub292/mahbub292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
